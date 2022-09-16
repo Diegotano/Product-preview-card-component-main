@@ -1,0 +1,129 @@
+
+.cuadrado{
+    background-color: hsl(0, 0%, 100%);
+    display: flex;
+    margin-top: 20%;
+    margin-left: 42%;
+    margin-right: auto;
+    width: 650px;
+    height: 445px;
+    border-radius: 10px;
+}
+
+.img1{
+    border-radius: 10px 0.1px 0.1px 10px;
+    width: 325px;
+    height: 445px;
+}
+
+.p2a{
+    bottom: 240px;
+    left: 407px;
+}
+
+.p2b{
+    bottom: 215px;
+    left: 186px;
+}
+
+.p2c{
+    bottom: 190px;
+    left: -36px;
+}
+
+.p2d{
+    bottom: 165px;
+    left: -256px;
+}
+
+.p2e{
+    bottom: 275px;
+    left: 990px;
+}
+
+.boton{
+    background-color: hsl(158, 36%, 37%);
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 340px;
+    left: 967px;
+    justify-content: center;
+}
+
+.carrito{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    bottom: -15px;
+}
+
+body{
+    width: 1440px;
+    background-color: hsl(30, 38%, 92%);
+}
+
+div{
+    display: flex;
+}
+
+p1{
+    font-family: "Montserrat";
+    font-weight: 500;
+    color: gray;
+    font-style: normal;
+    font-size: 14px;
+    position: relative;
+    word-break: break-all;
+    bottom: 410px;
+    left: 960px;
+    width: 3000px;
+}
+
+p2{
+    font-family: "Montserrat";
+    font-weight: 500;
+    justify-content: center;
+    color: gray;
+    font-style: normal;
+    font-size: 14px;
+    position: relative;
+    width: 2000px;
+    line-height: 20px;
+    word-break: break-all;
+}
+
+h1{
+    font-family: "Fraunces";
+    font-weight: 700;
+    font-size: 40px;
+    color: hsl(212, 21%, 14%);
+    position: relative;
+    left: 626px;
+    bottom: 400px;
+    width: 2000px;
+    line-height: 35px;
+}
+
+h2{
+    font-family: "Fraunces";
+    font-weight: 700;
+    font-size: 35px;
+    color: hsl(158, 36%, 37%);
+    position: relative;
+    left: 975px;
+    bottom: 316px;
+}
+
+p3{
+    font-family: "Fraunces";
+    font-weight: 600;
+    justify-content: center;
+    color: white;
+    font-size: 17px;
+    word-spacing: 3px;
+    position: relative;
+    bottom: -15px;
+    left: 5px;
+}
